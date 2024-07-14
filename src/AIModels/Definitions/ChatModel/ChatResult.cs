@@ -1,3 +1,5 @@
+namespace Aerrobert.Packages.SharpAI;
+
 public class ChatResult 
 {
     public readonly string message;

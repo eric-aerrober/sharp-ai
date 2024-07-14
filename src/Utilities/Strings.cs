@@ -1,3 +1,5 @@
+namespace Aerrobert.Packages.SharpAI;
+
 public static class StringUtilities
 {
     public static int GetStableHashCode(string str)

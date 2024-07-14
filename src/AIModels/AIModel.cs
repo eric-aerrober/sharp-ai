@@ -1,3 +1,5 @@
+namespace Aerrobert.Packages.SharpAI;
+
 public class AIModel <IInput, IOutput>
 {
 

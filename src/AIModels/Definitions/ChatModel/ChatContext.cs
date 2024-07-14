@@ -1,3 +1,5 @@
+namespace Aerrobert.Packages.SharpAI;
+
 using Newtonsoft.Json.Linq;
 
 public class ChatContext 

@@ -1,3 +1,4 @@
+namespace Aerrobert.Packages.SharpAI;
 
 public class AICache <IKeyType, IValueType> 
 {

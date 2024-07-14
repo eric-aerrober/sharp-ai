@@ -1,3 +1,5 @@
+namespace Aerrobert.Packages.SharpAI;
+
 public class ModelResult <IInput, IOutput>
 {
     public readonly AIModel<IInput, IOutput> model;

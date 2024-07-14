@@ -1,3 +1,5 @@
+namespace Aerrobert.Packages.SharpAI;
+
 using Newtonsoft.Json;
 
 public class CacheAsJsonOnDisk <IKeyType, IValueType> : AICache <IKeyType, IValueType>

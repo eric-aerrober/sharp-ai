@@ -1,3 +1,5 @@
+namespace Aerrobert.Packages.SharpAI;
+
 using System.Text.Json;
 using Microsoft.Extensions.Logging;
 

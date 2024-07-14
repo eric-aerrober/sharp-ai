@@ -1,3 +1,5 @@
+namespace Aerrobert.Packages.SharpAI;
+
 public class TextOnlyChatModel : AIModel<ChatContext, ChatContext>
 {
 

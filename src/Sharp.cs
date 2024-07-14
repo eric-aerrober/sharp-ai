@@ -1,7 +1,6 @@
-﻿using Microsoft.Extensions.Logging;
+﻿namespace Aerrobert.Packages.SharpAI;
 
-namespace sharp_ai;
-
+using Microsoft.Extensions.Logging;
 
 public class Sharp
 {
